@@ -10473,3 +10473,8 @@ a.text-dark:hover, a.text-dark:focus {
 {
   width: 600px;
 }
+
+.pimg {
+  width: 100px;
+  height: 100px;
+}
